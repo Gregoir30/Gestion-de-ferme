@@ -1,0 +1,6 @@
+{
+    "capacité": 70,
+    "emplacement": 6,
+    "nom": "Porco",
+    "type_de_porche": "luxe"
+}
